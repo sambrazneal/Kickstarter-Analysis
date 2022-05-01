@@ -15,13 +15,13 @@ Starting with the raw data, we knew that we would need to be sorted and filtered
 
 The first data set that we analyzed was the outcomes for the different parent categories. We found that theatre campaigns were the most used and most successful. So, that is great news for Louise. 
 
-
+![Parent_Outcomes](Parent_Outcomes.png)
 
 
 
 Next, we analyzed the data for the subcategories. Plays was the winner for subcategory outcomes being the most used and the most successful. Another win for Louise. Plays had a 65% success rate. 
 
-
+![SubCat_Outcomes](SubCat_Outcomes.png)
 
 
 
@@ -38,30 +38,13 @@ Next, we analyzed the data for the subcategories. Plays was the winner for subca
   
 Moving into more specific data that relates better to Louise’s goals. We analyzed the theater outcomes relative to launch dates. We found that May is the most successful month to host a campaign and December is the least. Louise should make sure any future theater campaigns should be launched in the summer months, as they tend to be the most successful. 
 
-
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
   Analysis of Play Outcomes Based on Goals
 
 Lastly, the analysis on the outcome for play fundraisers based on fundraising goals. In Louise’s category, $10,000 to $14,999 campaigns for plays are 54% successful. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 
 
@@ -83,6 +66,7 @@ Limitations
 Further Analysis 
 
 I was curious to see the length of campaigns and their success rate.  I used a formula to generate the number of days in a campaign from the start and end dates and used a line chart to show the outcomes. The average number of days for a campaign is 33 days. This helps Louise know how long she should host her campaign. 
+
 
 
 
