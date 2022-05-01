@@ -67,7 +67,7 @@ Further Analysis
 
 I was curious to see the length of campaigns and their success rate.  I used a formula to generate the number of days in a campaign from the start and end dates and used a line chart to show the outcomes. The average number of days for a campaign is 33 days. This helps Louise know how long she should host her campaign. 
 
-
+![Length_in_days](Length_in_days.png)
 
 
 
