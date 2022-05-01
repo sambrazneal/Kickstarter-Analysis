@@ -13,26 +13,18 @@ Louise has turned to us to determine if there are certain factors that make a ca
 
 Starting with the raw data, we knew that we would need to be sorted and filtered to be better prepared for the analysis. We added a few new columns to dive even further into the analysis. 
 
+#### Parent Categories
+
 The first data set that we analyzed was the outcomes for the different parent categories. We found that theatre campaigns were the most used and most successful. So, that is great news for Louise. 
 
 ![Parent_Outcomes](Parent_Outcomes.png)
 
+#### Subcategories 
 
-
-Next, we analyzed the data for the subcategories. Plays was the winner for subcategory outcomes being the most used and the most successful. Another win for Louise. Plays had a 65% success rate. 
+Next, we analyzed the data for the subcategories. Plays was the winner for subcategory outcomes being the most used and the most successful. Another win for Louise. Plays had a 65% success rate. Plays were the largest subcategory accounting for over one-fourth of the data. 
 
 ![SubCat_Outcomes](SubCat_Outcomes.png)
 
-
-
-
-
-
-### Difficulties and Challenges 
--	With a large data set like this one, there is always the chance that one of your formulas in the worksheet can get altered and become a problem. Make sure to double check your formulas, and autofill any formulas you think may have gotten altered.
--	Getting a data set from an unknown source, misspelt words could cause a problem when trying to filter and sort. If you find any errors or misspelt words, you can use the find function to search and correct and misspellings. 
-
-## Results 
 
 #### Analysis of Theater Outcomes Based on Launch Date 
   
@@ -48,7 +40,12 @@ Lastly, the analysis on the outcome for play fundraisers based on fundraising go
 
 
 
-### Conclusions
+
+### Difficulties and Challenges 
+-	With a large data set like this one, there is always the chance that one of your formulas in the worksheet can get altered and become a problem. Make sure to double check your formulas, and autofill any formulas you think may have gotten altered.
+-	Getting a data set from an unknown source, misspelt words could cause a problem when trying to filter and sort. If you find any errors or misspelt words, you can use the find function to search and correct and misspellings. 
+
+## Results 
 
 ##### Theater Outcomes Vs Launch Date 
 * Timing of a campaign is critical to the success. Try to schedule a campaign for May or June as they have the best success rates (67% and 65%, respectively).
@@ -56,12 +53,12 @@ Lastly, the analysis on the outcome for play fundraisers based on fundraising go
 
 ##### Play Outcomes Vs Goals 
 -	Campaigns with less than a $5,000 goal were the most successful with over 70% success rate. 
--	Louise has a 54% chance of success with a goal of $10,00. 
+-	Louise has a 54% chance of success with a goal of $10,000. 
 
 
-##### Limitations 
+##### Data Limitations 
 -	The data set is outdated. To provide a current analysis for Louise, a more recent data set should be used. 
--	I also think more in-depth information about each campaign would be helpful to Louise such as marketing efforts.
+-	Data with more in-depth information about each campaign would be helpful to Louise, such as marketing efforts.
 
 ##### Further Analysis 
 
