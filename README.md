@@ -34,13 +34,13 @@ Next, we analyzed the data for the subcategories. Plays was the winner for subca
 
 ## Results 
 
-  Analysis of Theater Outcomes Based on Launch Date 
+#### Analysis of Theater Outcomes Based on Launch Date 
   
 Moving into more specific data that relates better to Louise’s goals. We analyzed the theater outcomes relative to launch dates. We found that May is the most successful month to host a campaign and December is the least. Louise should make sure any future theater campaigns should be launched in the summer months, as they tend to be the most successful. 
 
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
-  Analysis of Play Outcomes Based on Goals
+#### Analysis of Play Outcomes Based on Goals
 
 Lastly, the analysis on the outcome for play fundraisers based on fundraising goals. In Louise’s category, $10,000 to $14,999 campaigns for plays are 54% successful. 
 
@@ -50,20 +50,20 @@ Lastly, the analysis on the outcome for play fundraisers based on fundraising go
 
 ### Conclusions
 
-Theater Outcomes Vs Launch Date 
+##### Theater Outcomes Vs Launch Date 
 * Timing of a campaign is critical to the success. Try to schedule a campaign for May or June as they have the best success rates (67% and 65%, respectively).
 * January and December are the worst months to host a campaign with success rates of 58% and 49%, respectively. 
 
-Play Outcomes Vs Goals 
+##### Play Outcomes Vs Goals 
 -	Campaigns with less than a $5,000 goal were the most successful with over 70% success rate. 
 -	Louise has a 54% chance of success with a goal of $10,00. 
 
 
-Limitations 
+##### Limitations 
 -	The data set is outdated. To provide a current analysis for Louise, a more recent data set should be used. 
 -	I also think more in-depth information about each campaign would be helpful to Louise such as marketing efforts.
 
-Further Analysis 
+##### Further Analysis 
 
 I was curious to see the length of campaigns and their success rate.  I used a formula to generate the number of days in a campaign from the start and end dates and used a line chart to show the outcomes. The average number of days for a campaign is 33 days. This helps Louise know how long she should host her campaign. 
 
