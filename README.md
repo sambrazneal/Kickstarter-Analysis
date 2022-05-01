@@ -35,9 +35,8 @@ Next, we analyzed the data for the subcategories. Plays was the winner for subca
 ## Results 
 
   Analysis of Theater Outcomes Based on Launch Date 
+  
 Moving into more specific data that relates better to Louise’s goals. We analyzed the theater outcomes relative to launch dates. We found that May is the most successful month to host a campaign and December is the least. Louise should make sure any future theater campaigns should be launched in the summer months, as they tend to be the most successful. 
-
-
 
 
 
